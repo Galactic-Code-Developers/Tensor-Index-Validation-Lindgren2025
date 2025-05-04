@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this validation notebook in your work, please cite it using the metadata below."
+title: "Tensor Index Validation of Lindgren (2025): A Symbolic Notebook Using SymPy"
+authors:
+  - family-names: Valamontes
+    given-names: A.
+    orcid: https://orcid.org/0009-0008-5616-7746  # Replace with your real ORCID
+date-released: 2025-05-04
+version: 1.0.0
+doi: 10.5281/zenodo.15335886  # Replace with real Zenodo DOI after archive
+url: https://github.com/Galactic-Code-Developers/Tensor-Index-Validation-Lindgren2025
+repository-code: https://github.com/Galactic-Code-Developers/Tensor-Index-Validation-Lindgren2025
+license: MIT
+keywords:
+  - tensor algebra
+  - sympy
+  - symbolic computation
+  - index contraction
+  - Lindgren 2025
+  - Weyl geometry
+  - peer review
+  - reproducibility
+abstract: >
+  This repository contains a symbolic validation notebook that critically evaluates
+  the mathematical consistency of tensor index use in Lindgren et al. (2025). Implemented
+  in SymPy and fully reproducible in Google Colab, the notebook confirms repeated dummy
+  index violations, improper contractions, and invalid derivations as highlighted by
+  independent reviewers. This work supports the analytical conclusions presented in
+  Demokritos Scientific Journal (Vol. 1, Issue 1).
